@@ -1,0 +1,1 @@
+import{F as r}from"./FooterComponent-VSHs9k2F.js";import{_ as s,r as o,o as c,a,g as e,F as p}from"./index-BqzZx0C6.js";import"./FixedIcon-iKJJSqq3.js";const m={components:{FooterComponent:r}};function _(i,f,l,u,F,d){const t=o("RouterView"),n=o("FooterComponent");return c(),a(p,null,[e(t),e(n)],64)}const w=s(m,[["render",_]]);export{w as default};
